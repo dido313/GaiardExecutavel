@@ -4,13 +4,7 @@
   "executable": "Gaiard.exe",
   "full": {
     "url": "https://github.com/dido313/GaiardExecutavel/releases/download/v1.0.0/gaiard-full.zip",
-    "size": 0,
-    "sha256": ""
-  },
-  "patch": {
-    "from_min": "1.0.0",
-    "url": "https://github.com/dido313/GaiardExecutavel/releases/download/v1.0.1/patch.zip",
-    "size": 0,
-    "sha256": ""
+    "size": 93024023,
+    "sha256": "da037c667459a8940ad9bd64d32aaf9b64cc85df9275d613e093de8bb951974a"
   }
 }
