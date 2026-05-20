@@ -1,10 +1,10 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "released_at": "2026-05-20",
   "executable": "Gaiard.exe",
   "full": {
-    "size": 92575860,
-    "sha256": "f50f81cf97562a688fbe61a85cc859435cd2613ccde418ca1ac5b6bd2cc29e01",
-    "url": "https://github.com/dido313/GaiardExecutavel/releases/download/v1.0.5/gaiard-full.zip"
+    "size": 92576998,
+    "sha256": "12053cc5d93741ae1b992a476fdc9ea2e4f27b29ecba7e07cf961a9117be74e1",
+    "url": "https://github.com/dido313/GaiardExecutavel/releases/download/v1.0.6/gaiard-full.zip"
   }
 }
